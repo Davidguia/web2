@@ -1,0 +1,1 @@
+Foi utilizado neste trabalhos bibliotecas Ajax do Jquery, Json, e conector do Banco de Dados MySql
